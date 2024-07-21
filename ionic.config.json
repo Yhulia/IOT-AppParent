@@ -1,0 +1,7 @@
+{
+  "name": "AppParent",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
